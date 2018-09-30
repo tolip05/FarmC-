@@ -1,0 +1,11 @@
+C:\Users\Kosta\source\repos\DictionarySets\wardrobe\bin\Debug\netcoreapp2.1\wardrobe.deps.json
+C:\Users\Kosta\source\repos\DictionarySets\wardrobe\bin\Debug\netcoreapp2.1\wardrobe.runtimeconfig.json
+C:\Users\Kosta\source\repos\DictionarySets\wardrobe\bin\Debug\netcoreapp2.1\wardrobe.runtimeconfig.dev.json
+C:\Users\Kosta\source\repos\DictionarySets\wardrobe\bin\Debug\netcoreapp2.1\wardrobe.dll
+C:\Users\Kosta\source\repos\DictionarySets\wardrobe\bin\Debug\netcoreapp2.1\wardrobe.pdb
+C:\Users\Kosta\source\repos\DictionarySets\wardrobe\obj\Debug\netcoreapp2.1\wardrobe.csprojAssemblyReference.cache
+C:\Users\Kosta\source\repos\DictionarySets\wardrobe\obj\Debug\netcoreapp2.1\wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\Kosta\source\repos\DictionarySets\wardrobe\obj\Debug\netcoreapp2.1\wardrobe.AssemblyInfoInputs.cache
+C:\Users\Kosta\source\repos\DictionarySets\wardrobe\obj\Debug\netcoreapp2.1\wardrobe.AssemblyInfo.cs
+C:\Users\Kosta\source\repos\DictionarySets\wardrobe\obj\Debug\netcoreapp2.1\wardrobe.dll
+C:\Users\Kosta\source\repos\DictionarySets\wardrobe\obj\Debug\netcoreapp2.1\wardrobe.pdb
