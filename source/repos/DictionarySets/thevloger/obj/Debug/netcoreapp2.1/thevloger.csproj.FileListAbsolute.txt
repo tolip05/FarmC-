@@ -1,0 +1,11 @@
+C:\Users\Kosta\source\repos\DictionarySets\thevloger\bin\Debug\netcoreapp2.1\thevloger.deps.json
+C:\Users\Kosta\source\repos\DictionarySets\thevloger\bin\Debug\netcoreapp2.1\thevloger.runtimeconfig.json
+C:\Users\Kosta\source\repos\DictionarySets\thevloger\bin\Debug\netcoreapp2.1\thevloger.runtimeconfig.dev.json
+C:\Users\Kosta\source\repos\DictionarySets\thevloger\bin\Debug\netcoreapp2.1\thevloger.dll
+C:\Users\Kosta\source\repos\DictionarySets\thevloger\bin\Debug\netcoreapp2.1\thevloger.pdb
+C:\Users\Kosta\source\repos\DictionarySets\thevloger\obj\Debug\netcoreapp2.1\thevloger.csprojAssemblyReference.cache
+C:\Users\Kosta\source\repos\DictionarySets\thevloger\obj\Debug\netcoreapp2.1\thevloger.csproj.CoreCompileInputs.cache
+C:\Users\Kosta\source\repos\DictionarySets\thevloger\obj\Debug\netcoreapp2.1\thevloger.AssemblyInfoInputs.cache
+C:\Users\Kosta\source\repos\DictionarySets\thevloger\obj\Debug\netcoreapp2.1\thevloger.AssemblyInfo.cs
+C:\Users\Kosta\source\repos\DictionarySets\thevloger\obj\Debug\netcoreapp2.1\thevloger.dll
+C:\Users\Kosta\source\repos\DictionarySets\thevloger\obj\Debug\netcoreapp2.1\thevloger.pdb
