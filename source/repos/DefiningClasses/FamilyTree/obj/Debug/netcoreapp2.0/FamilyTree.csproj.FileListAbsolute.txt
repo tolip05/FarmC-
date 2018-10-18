@@ -1,0 +1,11 @@
+C:\Users\Kosta\source\repos\DefiningClasses\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.deps.json
+C:\Users\Kosta\source\repos\DefiningClasses\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.runtimeconfig.json
+C:\Users\Kosta\source\repos\DefiningClasses\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.runtimeconfig.dev.json
+C:\Users\Kosta\source\repos\DefiningClasses\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.dll
+C:\Users\Kosta\source\repos\DefiningClasses\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.pdb
+C:\Users\Kosta\source\repos\DefiningClasses\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.csprojAssemblyReference.cache
+C:\Users\Kosta\source\repos\DefiningClasses\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.csproj.CoreCompileInputs.cache
+C:\Users\Kosta\source\repos\DefiningClasses\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.AssemblyInfoInputs.cache
+C:\Users\Kosta\source\repos\DefiningClasses\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.AssemblyInfo.cs
+C:\Users\Kosta\source\repos\DefiningClasses\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.dll
+C:\Users\Kosta\source\repos\DefiningClasses\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.pdb
