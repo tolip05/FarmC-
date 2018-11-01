@@ -1,0 +1,11 @@
+C:\Users\Kosta\source\repos\Inheritance\Farm01\bin\Debug\netcoreapp2.1\Farm01.deps.json
+C:\Users\Kosta\source\repos\Inheritance\Farm01\bin\Debug\netcoreapp2.1\Farm01.runtimeconfig.json
+C:\Users\Kosta\source\repos\Inheritance\Farm01\bin\Debug\netcoreapp2.1\Farm01.runtimeconfig.dev.json
+C:\Users\Kosta\source\repos\Inheritance\Farm01\bin\Debug\netcoreapp2.1\Farm01.dll
+C:\Users\Kosta\source\repos\Inheritance\Farm01\bin\Debug\netcoreapp2.1\Farm01.pdb
+C:\Users\Kosta\source\repos\Inheritance\Farm01\obj\Debug\netcoreapp2.1\Farm01.csprojAssemblyReference.cache
+C:\Users\Kosta\source\repos\Inheritance\Farm01\obj\Debug\netcoreapp2.1\Farm01.csproj.CoreCompileInputs.cache
+C:\Users\Kosta\source\repos\Inheritance\Farm01\obj\Debug\netcoreapp2.1\Farm01.AssemblyInfoInputs.cache
+C:\Users\Kosta\source\repos\Inheritance\Farm01\obj\Debug\netcoreapp2.1\Farm01.AssemblyInfo.cs
+C:\Users\Kosta\source\repos\Inheritance\Farm01\obj\Debug\netcoreapp2.1\Farm01.dll
+C:\Users\Kosta\source\repos\Inheritance\Farm01\obj\Debug\netcoreapp2.1\Farm01.pdb

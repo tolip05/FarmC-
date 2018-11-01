@@ -57,7 +57,7 @@ namespace thevloger
                 {
                     foreach (var i in item.Value["followers"])
                     {
-                        Console.WriteLine($"* {i}");
+                        Console.WriteLine($"*  {i}");
                     }
                 }
                 counter++;

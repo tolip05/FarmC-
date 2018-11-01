@@ -57,7 +57,7 @@ namespace reverseMatrix
                 }
                 foreach (var item in finalMatrix)
                 {
-                    Console.WriteLine($"[{String.Join(", ", item)}]");
+                    Console.WriteLine($"[{string.Join(", ", item)}]");
                 }
             }
             else
